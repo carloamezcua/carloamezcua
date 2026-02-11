@@ -30,10 +30,11 @@ Currently, I am expanding my skills in **Linux environments** and **server manag
 
 ### 🔭 Current Focus & Interests
 
-* **Large Language Models (LLMs):** Exploring the architecture and fine-tuning of generative models.
-* **Quantum Computing:** Researching the potential of quantum algorithms in data processing.
-* **System Administration:** Setting up a Home Server to learn Linux administration and self-hosting first-hand.
-* **Academic Portfolio:** Consolidating my university coursework into a professional repository structure (See my `portafolio-universitario` repo).
+* **Data Visualization & Analysis:** Deepening my expertise in `Matplotlib` and `Seaborn` to create decision maps and provide technical interpretations of performance metrics.
+* **Mathematical Modeling:** Applying mathematical foundations to the development of optimization algorithms and the study of dynamic systems.
+* **Concurrent Programming:** Exploring Python's `threading` and multiprocessing capabilities to optimize data processing and software efficiency.
+* **System Simulations:** Implementing cellular automata to study complex systems and emergent behaviors within AI frameworks.
+* **Large Language Models (LLMs):** Exploring the architectures and theoretical foundations of generative models.
 
 ---
 
