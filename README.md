@@ -1,9 +1,7 @@
 # Hi there, I'm Carlo 👋
 
 ### 🤖 AI & Data Science Undergraduate
-I am a 4th-semester student in **Artificial Intelligence and Data Science** with a strong background in **Mathematics**. My focus lies at the intersection of mathematical theory and practical implementation of intelligent systems.
-
-Currently, I am expanding my skills in **Linux environments** and **server management** while building a solid portfolio of academic and personal projects.
+I am a 4th-semester student in **Artificial Intelligence and Data Science** with a strong background in **Mathematics**.
 
 ---
 
@@ -11,15 +9,9 @@ Currently, I am expanding my skills in **Linux environments** and **server manag
 
 **Languages & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Data Science & AI:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Tools & Environment:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -30,11 +22,7 @@ Currently, I am expanding my skills in **Linux environments** and **server manag
 
 ### 🔭 Current Focus & Interests
 
-* **Data Visualization & Analysis:** Deepening my expertise in `Matplotlib` and `Seaborn` to create decision maps and provide technical interpretations of performance metrics.
-* **Mathematical Modeling:** Applying mathematical foundations to the development of optimization algorithms and the study of dynamic systems.
-* **Concurrent Programming:** Exploring Python's `threading` and multiprocessing capabilities to optimize data processing and software efficiency.
-* **System Simulations:** Implementing cellular automata to study complex systems and emergent behaviors within AI frameworks.
-* **Large Language Models (LLMs):** Exploring the architectures and theoretical foundations of generative models.
+* **Data Visualization & Analysis**
 
 ---
 
