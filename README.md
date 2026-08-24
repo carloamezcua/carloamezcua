@@ -1,11 +1,11 @@
-# Hi there, I'm Carlo 👋
+# Carlo A. Amezcua L.
 
-### 🤖 AI & Data Science Undergraduate
-I am a 4th-semester student in **Artificial Intelligence and Data Science** with a strong background in **Mathematics**.
+### AI & Data Science Undergraduate
+I am a 5th-semester student in **Artificial Intelligence and Data Science** with a strong background in **Mathematics**.
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Languages & Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,13 +20,13 @@ I am a 4th-semester student in **Artificial Intelligence and Data Science** with
 
 ---
 
-### 🔭 Current Focus & Interests
+### Current Focus & Interests
 
 * **Data Visualization & Analysis**
 
 ---
 
-### 🚀 Looking For
+### Looking For
 I am open to **Internships** and **Junior positions** where I can apply my mathematical background to real-world Data Science problems. I am also eager to collaborate on open-source projects to further sharpen my Git and coding skills.
 
 ---
